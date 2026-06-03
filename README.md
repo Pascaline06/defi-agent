@@ -11,9 +11,16 @@ Registered on **SAP Mainnet** | **3+ Ace Data Cloud Services** | **Real x402 Pay
 
 AceSentinelBot is a sophisticated, autonomous DeFi intelligence agent built for the **OOBE Protocol × Ace Data Cloud Bounty (Category 2)**. Unlike reactive chatbots, this agent runs as a persistent daemon loop that independently monitors live Solana mainnet USDC transactions, performs multi-service AI analysis, and handles cryptographic settlement—all without human intervention.
 
-**Key Proof:**
+
+## Verified SAP Mainnet Registration
+
+Transaction:
+https://solscan.io/tx/5khasy9uopiYt4vpQV8ukaceh12VYS6mhcePBpg8RqLysD4HiGuoAqQN8ZkwiPirweNGfCLMjcGwevFDuTFgg1hr
+
 - ✅ **SAP Mainnet Registration:** [TX: 5khasy9uopiYt4vpQV8ukaceh12VYS6mhcePBpg8RqLysD4HiGuoAqQN8ZkwiPirweNGfCLMjcGwevFDuTFgg1hr](https://solscan.io/tx/5khasy9uopiYt4vpQV8ukaceh12VYS6mhcePBpg8RqLysD4HiGuoAqQN8ZkwiPirweNGfCLMjcGwevFDuTFgg1hr)
+
 - ✅ **Agent PDA:** `4LALLro2XL66dWafJeQtiQpwfbeKTBUptFA3tDctzynh`
+
 - ✅ **Wallet:** `EZiMfPxaPCcCUZQjFkDRN5jwKjvvEgwC9tJeXgSC8UUp`
 
 ---
@@ -44,7 +51,18 @@ AceSentinelBot is a sophisticated, autonomous DeFi intelligence agent built for 
    Real-time Reports + x402 Crypto Settlement
 ```
 
----
+---## Autonomous Workflow
+
+1. Agent wakes every 20 seconds
+2. Queries Solana Mainnet for live USDC activity
+3. Detects significant transactions
+4. Calls Ace Data Cloud services for enrichment
+5. Generates AI intelligence report
+6. Sends Sentinel alert
+7. Archives report and memory state
+8. Processes x402 settlement flow
+9. Updates reputation score
+10. Sleeps and repeats automatically
 
 ## ✨ Core Features
 
@@ -183,6 +201,14 @@ defi-agent/
 | **SAP SDK** | [@oobe-protocol-labs/synapse-sap-sdk v0.19.8](https://www.npmjs.com/package/@oobe-protocol-labs/synapse-sap-sdk) |
 
 ---
+
+## Why This Matters
+Most traders discover large wallet movements after they already impact the market.
+
+AceSentinelBot continuously monitors live Solana activity, enriches transactions with AI analysis, and produces actionable intelligence automatically.
+
+This reduces reaction time and enables users to identify unusual activity before it becomes obvious to the broader market.
+
 
 ## 💡 What Makes This Different
 
