@@ -23,6 +23,7 @@ https://solscan.io/tx/5khasy9uopiYt4vpQV8ukaceh12VYS6mhcePBpg8RqLysD4HiGuoAqQN8Z
 
 - ✅ **Wallet:** `EZiMfPxaPCcCUZQjFkDRN5jwKjvvEgwC9tJeXgSC8UUp`
 
+ - **Railway deployment link :**  https://railway.com/project/8d8f3076-96cd-4927-b0e7-cf851cdacc5c/service/1b33f99b-26bf-4293-9543-a477d9b23223?environmentId=7611f8ab-d9a5-485e-8bc4-866ddc5be6a8&id=309ff62c-7beb-446b-9ff3-f45d2b3a406d#deploy
 ---
 
 ## 🏗️ Architecture Overview
