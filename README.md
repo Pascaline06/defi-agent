@@ -23,7 +23,7 @@ https://solscan.io/tx/5khasy9uopiYt4vpQV8ukaceh12VYS6mhcePBpg8RqLysD4HiGuoAqQN8Z
 
 - ✅ **Wallet:** `EZiMfPxaPCcCUZQjFkDRN5jwKjvvEgwC9tJeXgSC8UUp`
 
- - **Railway deployment link :**  https://railway.com/project/8d8f3076-96cd-4927-b0e7-cf851cdacc5c/service/1b33f99b-26bf-4293-9543-a477d9b23223?environmentId=7611f8ab-d9a5-485e-8bc4-866ddc5be6a8&id=309ff62c-7beb-446b-9ff3-f45d2b3a406d#deploy
+ - **Railway deployment link :**  https://railway.com/project/8d8f3076-96cd-4927-b0e7-cf851cdacc5c/service/1b33f99b-26bf-4293-9543-a477d9b23223?environmentId=7611f8ab-d9a5-485e-8bc4-866ddc5be6a8&id=e94ac8eb-1bea-4df0-9e7f-da45c8c0ee3d#deploy
 ---
 
 ## 🏗️ Architecture Overview
@@ -197,7 +197,7 @@ defi-agent/
 |---|---|
 | **SAP Registration TX** | [Solscan](https://solscan.io/tx/5khasy9uopiYt4vpQV8ukaceh12VYS6mhcePBpg8RqLysD4HiGuoAqQN8ZkwiPirweNGfCLMjcGwevFDuTFgg1hr) |
 | **Agent PDA** | `4LALLro2XL66dWafJeQtiQpwfbeKTBUptFA3tDctzynh` |
-| **Demo Video** | [https://docs.google.com/videos/d/1INjHUPjnaYAGmwBIsz833yoW_u6GEf3CrUwLKOpcAjc/edit?usp=drivesdk] |
+| **Demo Video** | [https://drive.google.com/file/d/1PFwjg6o_WHW_MK8GIOk39hfI4a3QER_v/view?usp=drivesdk] |
 | **Ace Data Cloud** | [API Key Verified] |
 | **SAP SDK** | [@oobe-protocol-labs/synapse-sap-sdk v0.19.8](https://www.npmjs.com/package/@oobe-protocol-labs/synapse-sap-sdk) |
 
