@@ -285,7 +285,7 @@ MIT - Built for the OOBE Protocol × Ace Data Cloud Bounty
 - ✅ Autonomous workflow (24/7 daemon)
 - ✅ Demo video (CapCut edited)
 - ✅ Professional documentation
-- ✅ GitHub repo with full source
+- ✅ GitHub repo with full source.
 
 ---
 
