@@ -20,6 +20,7 @@ This is not a simulation. Every claim is backed by **live on-chain proof**:
 - ✅ **SAP Mainnet Registration:** [TX Hash Verified](https://solscan.io/tx/5khasy9uopiYt4vpQV8ukaceh12VYS6mhcePBpg8RqLysD4HiGuoAqQN8ZkwiPirweNGfCLMjcGwevFDuTFgg1hr)
 - ✅ **Agent Wallet:** `EZiMfPxaPCcCUZQjFkDRN5jwKjvvEgwC9tJeXgSC8UUp`
 - ✅ **Agent PDA:** `4LALLro2XL66dWafJeQtiQpwfbeKTBUptFA3tDctzynh`
+- ✅ **Railway deployment** ( https://railway.com/project/8d8f3076-96cd-4927-b0e7-cf851cdacc5c/service/1b33f99b-26bf-4293-9543-a477d9b23223?environmentId=7611f8ab-d9a5-485e-8bc4-866ddc5be6a8&id=fea78eef-168e-4e06-b7d3-88cf3daeaa4e#deploy)
 - ✅ **8 Advanced Features** actively running in production
 - ✅ **Real x402 Settlements** with cryptographic proof
 - ✅ **Graceful Degradation** - continues running even when APIs fail
@@ -285,6 +286,7 @@ What truly separates AceSentinelBot from every other submission is its **self-he
 |---|---|---|
 | **SAP Mainnet Registration** | ✅ VERIFIED | [Solscan TX](https://solscan.io/tx/5khasy9uopiYt4vpQV8ukaceh12VYS6mhcePBpg8RqLysD4HiGuoAqQN8ZkwiPirweNGfCLMjcGwevFDuTFgg1hr) |
 | **3+ Ace Data Cloud Services** | ✅ LIVE | Serp + OpenAI + Flux (see Feature 2) |
+✅ **Railway deployment** ( https://railway.com/project/8d8f3076-96cd-4927-b0e7-cf851cdacc5c/service/1b33f99b-26bf-4293-9543-a477d9b23223?environmentId=7611f8ab-d9a5-485e-8bc4-866ddc5be6a8&id=fea78eef-168e-4e06-b7d3-88cf3daeaa4e#deploy)
 | **Real x402 Payments** | ✅ ON-CHAIN | Live settlement hashes in execution |
 | **Synapse Sentinel Integration** | ✅ ACTIVE | Real-time alerts (Feature 3) |
 | **Automated Workflow** | ✅ CONTINUOUS | 20-second daemon loop (Feature 8) |
