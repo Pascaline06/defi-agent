@@ -68684,7 +68684,7 @@ async function executeAceIntelligencePipeline(whaleTx, aceApiKey, apiEndpoint) {
       method: "POST",
       headers: { "Authorization": `Bearer ${aceApiKey}`, "Content-Type": "application/json" },
       body: JSON.stringify({
-        model: "flux",
+        model: "dall-e-3",
         prompt: `Cinematic neon holographic glass matrix data chart displaying a financial risk level of ${aiAnalysis.riskLevel}, dark fantasy cyberpunk style, deep shadows, high technical detail.`
       })
     });
